@@ -18,3 +18,5 @@ spring.data.mongodb.uri=mongodb://<user>:<password>@<host>:<port>/<collection>
 
 # add collection name to document
 @Document(collection="foosballresults")
+
+# 1.5 hrs
